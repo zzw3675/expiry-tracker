@@ -1,0 +1,10 @@
+# 数据与日志（不要提交自己的到期数据）
+*.db
+data/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
